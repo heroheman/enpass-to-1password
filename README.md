@@ -3,7 +3,7 @@ Enpass has decided not to offer CSV export anymore with version 6 (current statu
 
 But since most password managers can import the 1Password CSV format, it seemed practical to me if there is a simple converter.
 
-This script is based on [Miguel's](https://github.com/migvill/enpass-to-csv) script. I only adapted his global CSV adjustments to the 1Password format.  
+This script is based on [Miguel's](https://github.com/migvill/enpass-to-csv) script. I only adapted his global CSV adjustments to the [1Password format](https://support.1password.com/create-csv-files/). 
 
 ## Requirements
 * Node.js
