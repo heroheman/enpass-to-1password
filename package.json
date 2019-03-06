@@ -1,0 +1,19 @@
+{
+  "name": "enpass-json-to-1password-csv",
+  "version": "0.1.0",
+  "description": "Convert enpass json export to csv",
+  "main": "convert.js",
+  "repository": {
+    "type": "git",
+    "url": "enpass-to-csv"
+  },
+  "keywords": [
+    "enpass",
+    "csv",
+    "export",
+    "json",
+    "vault"
+  ],
+  "author": "Florenz Heldermann",
+  "license": "MIT"
+}
